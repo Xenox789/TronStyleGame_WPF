@@ -1,0 +1,77 @@
+# User-specific files
+*.rsuser
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vscode/
+.idea/
+.vs/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]pplicationInsights/
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tmp
+*.log
+
+# Windows Form and WPF-specific
+bin/
+obj/
+*.exe
+*.dll
+*.cache
+*.suo
+
+# NuGet dependencies
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+packages/
+
+# Rider-specific
+.idea/
+
+# Resharper files
+_ReSharper.Caches/
+
+# Backup and restore files
+*.bak
+*.old
+*.backup
+*.swp
+
+# IDE-specific files
+*.ipch
+*.vspscc
+*.vssscc
+
+# File-based project info
+*.pidb
+*.pids
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+~$*
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
